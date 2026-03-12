@@ -9,3 +9,6 @@
 2. `source venv/bin/activate` (Linux/Mac) 或 `venv\Scripts\activate` (Windows)
 3. `pip install -r requirements.txt`
 4. `python test_demo_api.py`
+
+
+- Day 2: `python test_json_api.py` — 验证 JSONPlaceholder API 字段

@@ -16,7 +16,7 @@ def test_get_post_by_id_1():
     assert "sunt aut" in data["title"],"Title should contain 'sunt aut'"
     assert len(data["body"]) > 10,"Body should not be too short"
 
-    print("✅ Test passed: Post ID=1 verified")
+    # print("✅ Test passed: Post ID=1 verified")
 
-if __name__ == "__main__":
-    test_get_post_by_id_1()
+# if __name__ == "__main__":
+#     test_get_post_by_id_1()

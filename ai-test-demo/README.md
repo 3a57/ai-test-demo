@@ -19,3 +19,5 @@
 ```bash
 pip install -r requirements.txt
 pytest  ----目前还是使用python -m pytest运行 待配置
+
+- Day 4: `test_param_api.py` — 使用 @pytest.mark.parametrize 测试多组数据
